@@ -31,3 +31,7 @@ This project explores three distinct approaches to Visual Question Answering (VQ
 - **`requirements.txt`**: Lists all dependencies required to run the project.
 - **`constants.py`**: Configuration file defining directory paths and other constants.
 - **`LICENSE`**: Licensing information for the project and dataset.
+
+<div style="text-align: center;">
+    <img src="[https://github.com/KhiemDangLe/Final-Project/blob/main/image/image_for_craw_data/quy_trinh.png?raw=true](https://github.com/DANGKHOIk22/Project-Visual-Question-Answering/blob/main/image/VQA_FLOW.png)" width="70"/>
+</div>
