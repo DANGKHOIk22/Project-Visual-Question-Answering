@@ -1,4 +1,4 @@
-# Visual Question Answering (VQA)
+![image](https://github.com/user-attachments/assets/83f55c4d-f9bc-4e82-8155-a4c38c50db5a)# Visual Question Answering (VQA)
 
 This project explores three distinct approaches to Visual Question Answering (VQA), a task that combines computer vision and natural language processing to answer questions about images. The implemented methods are:
 1. **CNN + LSTM**: A convolutional neural network (CNN) for image processing paired with a long short-term memory (LSTM) network for question understanding.
@@ -38,5 +38,13 @@ This project explores three distinct approaches to Visual Question Answering (VQ
     <img src="https://github.com/DANGKHOIk22/Project-Visual-Question-Answering/blob/main/image/VQA_FLOW.png?raw=true" width="700"/>
 </div>
 
-## Results:
+## Results
+- **CNN_LSTM**: <div style="text-align: center;">
+    <img src="https://github.com/DANGKHOIk22/Project-Visual-Question-Answering/blob/main/image/CNN_LSTM.png?raw=true" width="700"/>
+</div>
+
+- **ViT_Roberta**: <div style="text-align: center;">
+    <img src="https://github.com/DANGKHOIk22/Project-Visual-Question-Answering/blob/main/image/Vit_Roberta.png?raw=true" width="700"/>
+</div>
+
    
