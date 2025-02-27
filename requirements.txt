@@ -9,6 +9,6 @@ spacy==3.8.4
 
 
 # # For VLM
-# git+https://github.com/huggingface/transformers.git
-# bitsandbytes==0.45.0
-# accelerate==1.2.1
+git+https://github.com/huggingface/transformers.git
+bitsandbytes==0.45.0
+accelerate==1.2.1
