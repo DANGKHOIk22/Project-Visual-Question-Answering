@@ -1,0 +1,14 @@
+# For CNN_LSTM and ViT_Roberta
+timm==0.8.17.dev0
+torchtext==0.15.1
+torchvision==0.16.0
+torchaudio==2.1.0
+torch==2.1.0
+transformers==4.27.1
+spacy==3.8.4
+
+
+# # For VLM
+# git+https://github.com/huggingface/transformers.git
+# bitsandbytes==0.45.0
+# accelerate==1.2.1
