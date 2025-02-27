@@ -33,5 +33,5 @@ This project explores three distinct approaches to Visual Question Answering (VQ
 - **`LICENSE`**: Licensing information for the project and dataset.
 
 <div style="text-align: center;">
-    <img src="https://github.com/DANGKHOIk22/Project-Visual-Question-Answering/blob/main/image/VQA_FLOW.png?raw=true" width="70"/>
+    <img src="https://github.com/DANGKHOIk22/Project-Visual-Question-Answering/blob/main/image/VQA_FLOW.png?raw=true" width="700"/>
 </div>
