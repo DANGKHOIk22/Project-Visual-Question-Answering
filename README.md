@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/508a2617-648c-4e0f-9b9b-735d735e770f)# Visual Question Answering (VQA)
+# Visual Question Answering (VQA)
 
 This project explores three distinct approaches to Visual Question Answering (VQA), a task that combines computer vision and natural language processing to answer questions about images. The implemented methods are:
 1. **CNN + LSTM**: A convolutional neural network (CNN) for image processing paired with a long short-term memory (LSTM) network for question understanding.
