@@ -38,13 +38,6 @@ This project explores three distinct approaches to Visual Question Answering (VQ
     <img src="https://github.com/DANGKHOIk22/Project-Visual-Question-Answering/blob/main/image/Screenshot%202025-03-14%20190823.png?raw=true" width="700"/>
 </div>
 
-## Results
-- **CNN_LSTM**: <div style="text-align: center;">
-    <img src="https://github.com/DANGKHOIk22/Project-Visual-Question-Answering/blob/main/image/CNN_LSTM.png?raw=true" width="700"/>
-</div>
 
-- **ViT_Roberta**: <div style="text-align: center;">
-    <img src="https://github.com/DANGKHOIk22/Project-Visual-Question-Answering/blob/main/image/Vit_Roberta.png?raw=true" width="700"/>
-</div>
 
    
